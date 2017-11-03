@@ -1,0 +1,19 @@
+{
+  "name": "open-charity",
+  "version": "0.0.1",
+  "description": "Spread your charity donations",
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vultuk/OpenCharity.git"
+  },
+  "author": "Simon Skinner <simon@sisk-ltd.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vultuk/OpenCharity/issues"
+  },
+  "homepage": "https://github.com/vultuk/OpenCharity#readme"
+}
